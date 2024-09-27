@@ -17,4 +17,3 @@ To set up this project on your local machine, follow these instructions.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
